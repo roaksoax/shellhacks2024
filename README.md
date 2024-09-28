@@ -124,8 +124,10 @@ make image/bash
 ```
 
 # References
-
-How to build images using APKO: https://edu.chainguard.dev/open-source/build-tools/apko/getting-started-with-apko/
-How to build packages using Melange: https://edu.chainguard.dev/open-source/build-tools/melange/getting-started-with-melange/
-Example AI Applications with Pytorch: https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/
-What if I already have an app? How can I migrate my app to Chainguard Images: https://edu.chainguard.dev/chainguard/migration/porting-apps-to-chainguard/
+You can find more information in:
+ * wolfi-dev/os: https://github.com/wolfi-dev/os
+ * chainguard-images/images: https://github.com/chainguard-images/images
+ * How to build images using APKO: https://edu.chainguard.dev/open-source/build-tools/apko/getting-started-with-apko/
+ * How to build packages using Melange: https://edu.chainguard.dev/open-source/build-tools/melange/getting-started-with-melange/
+ * Example AI Applications with Pytorch: https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/
+ * What if I already have an app? How can I migrate my app to Chainguard Images: https://edu.chainguard.dev/chainguard/migration/porting-apps-to-chainguard/
